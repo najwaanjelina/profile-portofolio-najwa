@@ -42,7 +42,7 @@ exploreButton.addEventListener("click", function () {
             setTimeout(function () {
 
                 // Masuk ke portfolio
-                window.location.href = "welcome.html";
+                window.location.href = "index.html";
 
             }, 300);
 
